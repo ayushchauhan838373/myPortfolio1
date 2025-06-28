@@ -83,7 +83,7 @@ const About: React.FC = () => {
               className="rounded-2xl shadow-xl"
             />
             <div className="absolute -bottom-6 -left-6 bg-blue-600 text-white p-6 rounded-xl shadow-lg">
-              <p className="text-3xl font-bold">9</p>
+              <p className="text-3xl font-bold">12</p>
               <p className="text-blue-200">Certifications</p>
             </div>
             <div className="absolute -top-6 -right-6 bg-teal-600 text-white p-4 rounded-xl shadow-lg">
